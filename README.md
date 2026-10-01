@@ -86,22 +86,3 @@ This was a **collaborative college project**, and the application credits **Swar
 
 The repository was shared as a fork of the teammate's original work. Retain upstream history and contributor credit when presenting or extending it. Individual responsibilities for dataset preparation, model training, interface development, evaluation, and deployment should be documented only when confirmed by the team.
 
-## Evaluation and limitations
-
-No verified accuracy, precision, recall, F1, AUC, confusion matrix, or dataset split is published in this repository. Consequently, this README makes no performance claim.
-
-- The training dataset, image modality, dataset license, and intended input distribution are not documented here.
-- The uploader accepts general image formats; it does not establish that an uploaded image is appropriate for this model.
-- Training reproducibility cannot be checked without the training code, dataset details, and model configuration.
-- Google Drive availability and model compatibility are external runtime dependencies.
-- The progress bar is a visual indicator; it does not measure inference progress.
-- The live demo's availability is independent of this source-code documentation.
-
-## Potential improvements
-
-- Publish the training notebook, dataset source and permissions, preprocessing details, and evaluation methodology.
-- Record each team member's confirmed contribution.
-- Pin dependencies and document a tested Python/TensorFlow environment.
-- Replace diagnostic-sounding UI messages with neutral educational model-output text.
-- Add image validation, robust model-loading error handling, and preprocessing tests.
-- Document model provenance, versioning, and integrity checks.
