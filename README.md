@@ -105,7 +105,3 @@ No verified accuracy, precision, recall, F1, AUC, confusion matrix, or dataset s
 - Replace diagnostic-sounding UI messages with neutral educational model-output text.
 - Add image validation, robust model-loading error handling, and preprocessing tests.
 - Document model provenance, versioning, and integrity checks.
-
-## License
-
-No license file was present in the reviewed repository. Public availability does not by itself grant permission to reuse the code, dataset, or model. Confirm the relevant permissions before redistribution or commercial use.
